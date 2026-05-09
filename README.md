@@ -29,7 +29,7 @@ I'm characterized by my curiosity, commitment, and passion for technology, which
 
 - Outside tech: 🎮enjoy video games, following F1🏎️ and soccer⚽️, and ⚡exploring emerging technology trends.
 
-- 🤝 Interested in open-source collaboration and knowledge-sharing within the community.
+- 🤝 Interested in open source collaboration and knowledge sharing within the community. Seeking my first experience in the technology field.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
