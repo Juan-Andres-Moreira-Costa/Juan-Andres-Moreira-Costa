@@ -7,7 +7,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tourney&size=25&color=2CFF00&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 </h1>
 </div>
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="350" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px>&nbsp;***About me***
 
